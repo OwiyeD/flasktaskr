@@ -1,2 +1,2 @@
 # flasktaskr
-This is a program that I was in tutorial on flask web development practise. It is a program that manages tasks 
+This is a program is a self learning project that I embarked developing after having an extensive study session on Flask, SQLAlchemy linking to SQLite. It is a program that manages tasks 
